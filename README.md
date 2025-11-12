@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aniket Bansod</h1>
-<h3 align="center">Software Developer | MERN & AI Integration | Web Security Enthusiast</h3>
+<h3 align="center">Software Developer | Full Stack Engineer | AI & Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:aniketbansod2004@gmail.com">Email</a> •
