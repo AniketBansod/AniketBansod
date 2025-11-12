@@ -5,7 +5,7 @@
   <a href="mailto:aniketbansod2004@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/aniket-bansod-70b46825b">LinkedIn</a> •
   <a href="https://github.com/AniketBansod">GitHub</a> •
-  <a href="https://ai-project-ten-lilac.vercel.app/">Portfolio</a>
+  <a href="https://portfolio-cdpn.vercel.app/">Portfolio</a>
 </p>
 
 ---
